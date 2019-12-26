@@ -32,3 +32,6 @@ yarn-debug.log*
 
 /vendor/*
 !/vendor/.keep
+
+/node_modules/*
+!/node_modules/.keep
